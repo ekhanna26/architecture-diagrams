@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nXD9NAT9-839hIxANcJJ" name="103 Submission Design">
-    <mxGraphModel dx="1243" dy="646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPWlXe4zlsMAj8Nyrk0z-62" value="Reference Architecture - ACORD TX 103 Submission Automation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="239" y="13" width="716" height="30" as="geometry" />
+          <mxGeometry x="239" y="3" width="716" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0pZ_VudkQ8IEZsZg8oPW-11" value="Reference Architecture - ACORD TX 103 Submission Automation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="198" y="811" width="716" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
