@@ -365,9 +365,6 @@
         <mxCell id="rPWlXe4zlsMAj8Nyrk0z-62" value="Reference Architecture - ACORD TX 103 Submission Automation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="239" y="3" width="716" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0pZ_VudkQ8IEZsZg8oPW-11" value="Reference Architecture - ACORD TX 103 Submission Automation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="198" y="811" width="716" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
