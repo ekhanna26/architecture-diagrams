@@ -600,7 +600,7 @@
         <mxCell id="ky7QuxxlZWuDLJu3o2Io-1" parent="ky7QuxxlZWuDLJu3o2Io-37" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.conditional_access_sharepoint;fillColorStyles=fillColor2;fillColor2=#2171ba;" value="Products&lt;div&gt;Repository&lt;/div&gt;" vertex="1">
           <mxGeometry height="185" width="139" x="168" y="273" as="geometry" />
         </mxCell>
-        <mxCell id="ky7QuxxlZWuDLJu3o2Io-3" parent="ky7QuxxlZWuDLJu3o2Io-37" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" value="Power Automate&lt;div&gt;Flow&lt;/div&gt;" vertex="1">
+        <mxCell id="ky7QuxxlZWuDLJu3o2Io-3" parent="ky7QuxxlZWuDLJu3o2Io-37" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" value="Power Automate&lt;div&gt;Flow&lt;/div&gt;&lt;div&gt;(PUBLISHER)&lt;/div&gt;" vertex="1">
           <mxGeometry height="53.839999999999996" width="68" x="67" y="87" as="geometry" />
         </mxCell>
         <mxCell id="ky7QuxxlZWuDLJu3o2Io-6" edge="1" parent="ky7QuxxlZWuDLJu3o2Io-37" source="ky7QuxxlZWuDLJu3o2Io-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ky7QuxxlZWuDLJu3o2Io-1">
