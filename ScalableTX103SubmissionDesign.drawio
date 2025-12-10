@@ -682,7 +682,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="urSxy9IjZNYLpgPgkeTs-5" connectable="0" parent="Q4YMDehJXQeV-FVMbyZ2-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PUT METADATA" vertex="1">
+        <mxCell id="urSxy9IjZNYLpgPgkeTs-5" connectable="0" parent="Q4YMDehJXQeV-FVMbyZ2-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PUT METADATA&lt;div&gt;(DMS 2.0 Application State)&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.3507" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
