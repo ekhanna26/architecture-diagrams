@@ -811,7 +811,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ky7QuxxlZWuDLJu3o2Io-21" parent="0uSBNKfLH0G52xJt2if7-3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" value="FAST SDK" vertex="1">
-          <mxGeometry height="72" width="63.5" x="837" y="12" as="geometry" />
+          <mxGeometry height="72" width="63.5" x="735" y="10" as="geometry" />
         </mxCell>
         <mxCell id="ky7QuxxlZWuDLJu3o2Io-25" edge="1" parent="0uSBNKfLH0G52xJt2if7-3" source="ky7QuxxlZWuDLJu3o2Io-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UF-Yinn37HVIzty3UKuO-3" value="">
           <mxGeometry relative="1" as="geometry" />
