@@ -967,7 +967,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7j3u428aPsmGZ1myYWVY" name="Cust Reg Invite Code">
-    <mxGraphModel dx="992" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="871" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1084,7 +1084,7 @@
           <mxGeometry height="54" width="54" x="881" y="176" as="geometry" />
         </mxCell>
         <mxCell id="br0FYhb7gkZXP3usnvul-38" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" value="SMTP" vertex="1">
-          <mxGeometry height="92" width="76" x="1060" y="40" as="geometry" />
+          <mxGeometry height="92" width="76" x="649.5" y="560" as="geometry" />
         </mxCell>
         <mxCell id="br0FYhb7gkZXP3usnvul-39" edge="1" parent="1" source="br0FYhb7gkZXP3usnvul-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;textOpacity=20;curved=0;endArrow=classic;endFill=0;dashed=1;" target="br0FYhb7gkZXP3usnvul-38">
           <mxGeometry relative="1" as="geometry" />
