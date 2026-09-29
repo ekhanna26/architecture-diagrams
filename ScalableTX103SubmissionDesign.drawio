@@ -1225,13 +1225,13 @@
         <mxCell id="NMUh20MspMgUwUb13Wp3-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Zone 3: Backend Services" vertex="1">
           <mxGeometry height="30" width="185" x="30" y="506" as="geometry" />
         </mxCell>
-        <mxCell id="NMUh20MspMgUwUb13Wp3-43" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;" target="NMUh20MspMgUwUb13Wp3-2">
+        <mxCell id="NMUh20MspMgUwUb13Wp3-43" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;startArrow=openThin;startFill=0;" target="NMUh20MspMgUwUb13Wp3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NMUh20MspMgUwUb13Wp3-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Cross Cutting Concerns" vertex="1">
           <mxGeometry height="30" width="185" x="870" y="27" as="geometry" />
         </mxCell>
-        <mxCell id="NMUh20MspMgUwUb13Wp3-56" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NMUh20MspMgUwUb13Wp3-52" value="">
+        <mxCell id="NMUh20MspMgUwUb13Wp3-70" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NMUh20MspMgUwUb13Wp3-68" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NMUh20MspMgUwUb13Wp3-49" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" value="FAST API" vertex="1">
@@ -1243,17 +1243,11 @@
         <mxCell id="NMUh20MspMgUwUb13Wp3-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="BFF / API Facade" vertex="1">
           <mxGeometry height="54" width="144" x="71" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="NMUh20MspMgUwUb13Wp3-57" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NMUh20MspMgUwUb13Wp3-53" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NMUh20MspMgUwUb13Wp3-52" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" value="Enrollment Service" vertex="1">
-          <mxGeometry height="54" width="123" x="491" y="548" as="geometry" />
-        </mxCell>
-        <mxCell id="NMUh20MspMgUwUb13Wp3-58" edge="1" parent="1" source="NMUh20MspMgUwUb13Wp3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NMUh20MspMgUwUb13Wp3-54" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="54" width="132" x="491" y="548" as="geometry" />
         </mxCell>
         <mxCell id="NMUh20MspMgUwUb13Wp3-53" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" value="Product Service" vertex="1">
-          <mxGeometry height="54" width="123" x="651" y="548" as="geometry" />
+          <mxGeometry height="54" width="132" x="651" y="548" as="geometry" />
         </mxCell>
         <mxCell id="NMUh20MspMgUwUb13Wp3-54" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" value="Claim Service" vertex="1">
           <mxGeometry height="54" width="127" x="808" y="548" as="geometry" />
@@ -1267,8 +1261,14 @@
         <mxCell id="NMUh20MspMgUwUb13Wp3-62" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="AI &lt;br&gt;ChatBot" vertex="1">
           <mxGeometry height="60" width="81" x="562" y="106" as="geometry" />
         </mxCell>
-        <mxCell id="NMUh20MspMgUwUb13Wp3-63" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#808080;perimeterSpacing=4;rounded=1;shadow=0;" value="FAST DOMAIN" vertex="1">
-          <mxGeometry height="346" width="725" x="274" y="485" as="geometry" />
+        <mxCell id="NMUh20MspMgUwUb13Wp3-63" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#808080;perimeterSpacing=4;rounded=1;shadow=0;" value="FAST DOMAIN" vertex="1">
+          <mxGeometry height="346" width="725" x="275" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="NMUh20MspMgUwUb13Wp3-68" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="98" width="495.5" x="467" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="NMUh20MspMgUwUb13Wp3-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Service Group" vertex="1">
+          <mxGeometry height="30" width="156" x="633" y="512" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
