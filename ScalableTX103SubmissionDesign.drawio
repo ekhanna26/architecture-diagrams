@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="901" dy="360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="432" dy="173" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1531,8 +1531,8 @@
         <mxCell id="AfaVnRYqNDJAxr8Dp4xn-7" parent="AfaVnRYqNDJAxr8Dp4xn-134" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="LLM&lt;br&gt;Providers" vertex="1">
           <mxGeometry height="51.87155614668439" width="122.80509554140126" x="19.955828025477704" y="113.2528975869276" as="geometry" />
         </mxCell>
-        <mxCell id="VWDrjzNLhKH8Ipad3XUy-1" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-18" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.159;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;curveGeometry=1;" target="AfaVnRYqNDJAxr8Dp4xn-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-1" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-18" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;curveGeometry=1;" target="AfaVnRYqNDJAxr8Dp4xn-39">
+          <mxGeometry relative="1" x="0.0045" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-2" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-89" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=1;curveGeometry=1;" target="AfaVnRYqNDJAxr8Dp4xn-41">
           <mxGeometry relative="1" as="geometry" />
