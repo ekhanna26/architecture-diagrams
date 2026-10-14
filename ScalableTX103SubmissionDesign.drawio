@@ -1611,13 +1611,44 @@
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-29" parent="VWDrjzNLhKH8Ipad3XUy-30" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="REVOL&lt;br&gt;FAST Events" vertex="1">
           <mxGeometry height="60" width="120" x="25.829999999999927" y="47" as="geometry" />
         </mxCell>
-        <mxCell id="VWDrjzNLhKH8Ipad3XUy-33" edge="1" parent="1" source="dbM5uBB18ZfhMG7Kqu70-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;curveGeometry=1;dashed=1;exitX=0.45;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" target="VWDrjzNLhKH8Ipad3XUy-27">
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-33" edge="1" parent="1" source="dbM5uBB18ZfhMG7Kqu70-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;curveGeometry=1;dashed=1;exitX=0.45;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" target="VWDrjzNLhKH8Ipad3XUy-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1035.1" y="624.6" />
               <mxPoint x="1035.1" y="881.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="131" width="171.67" x="342" y="806" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-36" parent="VWDrjzNLhKH8Ipad3XUy-35" style="shape=table;startSize=37;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="Events Processor" vertex="1">
+          <mxGeometry height="131" width="171.67" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-37" parent="VWDrjzNLhKH8Ipad3XUy-36" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="94" width="171.67" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-38" parent="VWDrjzNLhKH8Ipad3XUy-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="94" width="172" as="geometry">
+            <mxRectangle height="94" width="172" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-44" parent="VWDrjzNLhKH8Ipad3XUy-35" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="63" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-40" edge="1" parent="1" source="VWDrjzNLhKH8Ipad3XUy-37" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;curveGeometry=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.7" y="739.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-41" edge="1" parent="1" source="VWDrjzNLhKH8Ipad3XUy-27" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="VWDrjzNLhKH8Ipad3XUy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-42" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#f6f6f6;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="20" width="800" x="59" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-43" parent="VWDrjzNLhKH8Ipad3XUy-42" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#DB524C;fontColor=#FFFFFF;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="20" width="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
