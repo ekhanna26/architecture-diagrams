@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="1302" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="250" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1592,7 +1592,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;TERMS:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BFF = Backend for Front-End&lt;div&gt;LLM = Large Language Model&lt;/div&gt;&lt;div&gt;WAF = Web Application Firewall&lt;/div&gt;&lt;div&gt;DDoS = Distributed Denial of Service&lt;/div&gt;&lt;div&gt;TLS = Transport Layer Service&lt;/div&gt;&lt;div&gt;DMS = Document Management Service&lt;/div&gt;" vertex="1">
-          <mxGeometry height="134.06" width="248" x="1427" y="19.999999999999996" as="geometry" />
+          <mxGeometry height="114" width="221" x="1454" y="20" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-30" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="131" width="171.67" x="570" y="806" as="geometry" />
