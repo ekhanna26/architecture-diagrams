@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="1302" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1572,21 +1572,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-15" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;fillColor=#eeeeee;strokeColor=#36393d;" value="External &#xa;Integrations Gateway" vertex="1">
-          <mxGeometry height="126" width="158.86" x="709.81" y="93" as="geometry" />
+          <mxGeometry height="91" width="158.86" x="709.81" y="126" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-16" parent="VWDrjzNLhKH8Ipad3XUy-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="96" width="158.86" y="30" as="geometry" />
+          <mxGeometry height="61" width="158.86" y="30" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-17" parent="VWDrjzNLhKH8Ipad3XUy-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#eeeeee;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="96" width="159" as="geometry">
-            <mxRectangle height="96" width="159" as="alternateBounds" />
+          <mxGeometry height="61" width="159" as="geometry">
+            <mxRectangle height="61" width="159" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP Request / Response" vertex="1">
           <mxGeometry height="25" width="186.5" x="314" y="307.89" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Plaid" vertex="1">
-          <mxGeometry height="29.94" width="125.5" x="725" y="138.04" as="geometry" />
+          <mxGeometry height="29.94" width="125.5" x="725" y="171.04" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-21" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.239;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;curveGeometry=1;" target="VWDrjzNLhKH8Ipad3XUy-16">
           <mxGeometry relative="1" as="geometry" />
@@ -1642,6 +1642,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-41" edge="1" parent="1" source="VWDrjzNLhKH8Ipad3XUy-27" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="VWDrjzNLhKH8Ipad3XUy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-50" connectable="0" parent="1" style="group;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="91" width="160.66999999999996" x="707.33" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-46" parent="VWDrjzNLhKH8Ipad3XUy-50" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Identity and IAM" vertex="1">
+          <mxGeometry height="91" width="160.67" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-47" parent="VWDrjzNLhKH8Ipad3XUy-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="61" width="160.67" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-48" parent="VWDrjzNLhKH8Ipad3XUy-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="61" width="161" as="geometry">
+            <mxRectangle height="61" width="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-49" parent="VWDrjzNLhKH8Ipad3XUy-50" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="Auth0" vertex="1">
+          <mxGeometry height="37.69" width="120" x="17.66999999999996" y="43.05000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-51" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-102" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=1;curveGeometry=1;" target="VWDrjzNLhKH8Ipad3XUy-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
