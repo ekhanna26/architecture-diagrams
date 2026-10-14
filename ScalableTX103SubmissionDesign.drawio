@@ -1325,7 +1325,7 @@
         <mxCell id="dbM5uBB18ZfhMG7Kqu70-16" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="432" width="340" x="982" y="191" as="geometry" />
         </mxCell>
-        <mxCell id="dbM5uBB18ZfhMG7Kqu70-6" parent="dbM5uBB18ZfhMG7Kqu70-16" style="shape=table;startSize=26;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;dashed=1;strokeWidth=1;" value="FAST Domain" vertex="1">
+        <mxCell id="dbM5uBB18ZfhMG7Kqu70-6" parent="dbM5uBB18ZfhMG7Kqu70-16" style="shape=table;startSize=26;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;dashed=1;strokeWidth=1;" value="FAST Domain (SI)" vertex="1">
           <mxGeometry height="432" width="336.53977966308594" as="geometry" />
         </mxCell>
         <mxCell id="dbM5uBB18ZfhMG7Kqu70-7" parent="dbM5uBB18ZfhMG7Kqu70-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
