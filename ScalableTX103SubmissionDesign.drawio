@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="2252" dy="1750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1314,7 +1314,7 @@
           <mxGeometry height="77.9268491475922" width="92.99999999999999" x="134.15999999999994" y="43.88563947565035" as="geometry" />
         </mxCell>
         <mxCell id="QueGEA57HmoP0J__QcAT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="High Level Target State Architecture&amp;nbsp;" vertex="1">
-          <mxGeometry height="48" width="283" x="649" y="-345" as="geometry" />
+          <mxGeometry height="48" width="526" x="556" y="11.5" as="geometry" />
         </mxCell>
         <mxCell id="E0WJWX5ZxGpDyGZhUH_z-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTPS (TLS 1.2)" vertex="1">
           <mxGeometry height="17.05" width="180" x="89" y="146.95" as="geometry" />
@@ -1543,7 +1543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bvjYs3wgVGHhKdSzfUZU-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3333FF;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="800" width="7.5" x="920" y="1.209999999999999" as="geometry" />
+          <mxGeometry height="730.21" width="7.5" x="920" y="71" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-6" edge="1" parent="1" source="AfaVnRYqNDJAxr8Dp4xn-18" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;curveGeometry=1;" target="dbM5uBB18ZfhMG7Kqu70-7">
           <mxGeometry relative="1" as="geometry">
