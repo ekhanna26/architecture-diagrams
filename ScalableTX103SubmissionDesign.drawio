@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="1864" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1473,7 +1473,7 @@
         <mxCell id="AfaVnRYqNDJAxr8Dp4xn-90" edge="1" parent="AfaVnRYqNDJAxr8Dp4xn-120" source="AfaVnRYqNDJAxr8Dp4xn-32" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;curveGeometry=1;" target="AfaVnRYqNDJAxr8Dp4xn-89" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWDrjzNLhKH8Ipad3XUy-12" parent="AfaVnRYqNDJAxr8Dp4xn-120" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Subgraphs | Business Process Orchestration | Internal APIs" vertex="1">
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-12" parent="AfaVnRYqNDJAxr8Dp4xn-120" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Subgraphs | Business Process Orchestration | Internal / External APIs" vertex="1">
           <mxGeometry height="17.05" width="432.5" x="17.829999999999956" y="197" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-13" parent="AfaVnRYqNDJAxr8Dp4xn-120" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Partner BFF" vertex="1">
