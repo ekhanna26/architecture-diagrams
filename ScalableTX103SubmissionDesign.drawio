@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0iDkqW3X4Qzqgamh3_45" name="VB-TSA">
-    <mxGraphModel dx="1567" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1483,7 +1483,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AfaVnRYqNDJAxr8Dp4xn-121" connectable="0" parent="1" style="group;fillColor=#eeeeee;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="150" width="160.67" x="574" y="585" as="geometry" />
+          <mxGeometry height="150" width="160.67" x="574" y="607" as="geometry" />
         </mxCell>
         <mxCell id="AfaVnRYqNDJAxr8Dp4xn-41" parent="AfaVnRYqNDJAxr8Dp4xn-121" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="DMS 2.0" vertex="1">
           <mxGeometry height="146.13082631429063" width="160.67000000000002" as="geometry" />
@@ -1593,6 +1593,31 @@
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;TERMS:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BFF = Backend for Front-End&lt;div&gt;LLM = Large Language Model&lt;/div&gt;&lt;div&gt;WAF = Web Application Firewall&lt;/div&gt;&lt;div&gt;DDoS = Distributed Denial of Service&lt;/div&gt;&lt;div&gt;TLS = Transport Layer Service&lt;/div&gt;&lt;div&gt;DMS = Document Management Service&lt;/div&gt;" vertex="1">
           <mxGeometry height="134.06" width="248" x="1427" y="19.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-30" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="131" width="171.67" x="570" y="806" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-26" parent="VWDrjzNLhKH8Ipad3XUy-30" style="shape=table;startSize=37;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;" value="MQ Broker" vertex="1">
+          <mxGeometry height="131" width="171.67" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-27" parent="VWDrjzNLhKH8Ipad3XUy-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="94" width="171.67" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-28" parent="VWDrjzNLhKH8Ipad3XUy-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="94" width="172" as="geometry">
+            <mxRectangle height="94" width="172" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-29" parent="VWDrjzNLhKH8Ipad3XUy-30" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="REVOL&lt;br&gt;FAST Events" vertex="1">
+          <mxGeometry height="60" width="120" x="25.829999999999927" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-33" edge="1" parent="1" source="dbM5uBB18ZfhMG7Kqu70-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;curveGeometry=1;dashed=1;exitX=0.45;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" target="VWDrjzNLhKH8Ipad3XUy-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035.1" y="624.6" />
+              <mxPoint x="1035.1" y="881.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
