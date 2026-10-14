@@ -1571,15 +1571,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWDrjzNLhKH8Ipad3XUy-15" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;fillColor=#eeeeee;strokeColor=#36393d;" value="Payment Gateway" vertex="1">
-          <mxGeometry height="93.48" width="158.86" x="709.81" y="93" as="geometry" />
+        <mxCell id="VWDrjzNLhKH8Ipad3XUy-15" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;fillColor=#eeeeee;strokeColor=#36393d;" value="External &#xa;Integrations Gateway" vertex="1">
+          <mxGeometry height="126" width="158.86" x="709.81" y="93" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-16" parent="VWDrjzNLhKH8Ipad3XUy-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="63" width="158.86" y="30" as="geometry" />
+          <mxGeometry height="96" width="158.86" y="30" as="geometry" />
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-17" parent="VWDrjzNLhKH8Ipad3XUy-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#eeeeee;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="63" width="159" as="geometry">
-            <mxRectangle height="63" width="159" as="alternateBounds" />
+          <mxGeometry height="96" width="159" as="geometry">
+            <mxRectangle height="96" width="159" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VWDrjzNLhKH8Ipad3XUy-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP Request / Response" vertex="1">
